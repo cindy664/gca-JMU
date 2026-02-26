@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "James Madison University",
+    "abbreviation": "JMU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#ffffff",
+    "primaryBrandColor": "#450084",
+    "buttonColor": "#450084",
+    "buttonTextColor": "#ffffff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/jmu_purple.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/jmu_purple.png",
+    "partner_id": "001Rd0000063AAgIAM",
+    "programName": "JMU Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 JMU credits",
+    "startDate": "May 18",
+    "endDate": "July 31"
+  },
+  {
+    "item": "about",
+    "schoolname": "James Madison University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "Holland Yates Hall,  MSC 5731, 100 East Grace Street, 2nd Floor, Harrisonburg, Virginia 22807",
+    "abbreviation": "JMU",
+    "phone": "(540) 306-5321",
+    "credits": "3 JMU credits",
+    "programFee": "+ 250",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 JMU credits",
+    "abbreviation": "JMU",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "ecommerce",
+    "schoolname": "James Madison University",
+    "trackTitle": "Ecommerce Track",
+    "credits": "3 JMU credits",
+    "abbreviation": "JMU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UNST-498-0001 (Spring) | 3 Credits (General Elective)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 26",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "James Madison University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 JMU credits",
+    "abbreviation": "JMU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UNST-498-0001 (Spring) | 3 Credits (General Elective)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 26",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "James Madison University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 JMU credits",
+    "abbreviation": "JMU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UNST-498-0001 (Spring) | 3 Credits (General Elective)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 26",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "James Madison University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 JMU credits",
+    "abbreviation": "JMU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UNST-498-0001 (Spring) | 3 Credits (General Elective)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 26",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "James Madison University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 JMU credits",
+    "abbreviation": "JMU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UNST-498-0001 (Spring) | 3 Credits (General Elective)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 26",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "JMU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(540) 306-5321",
+    "abbreviation": "JMU"
+  },
+  {
+    "item": "begin",
+    "credits": "3 JMU credits",
+    "abbreviation": "JMU",
+    "phone": "(540) 306-5321"
+  }
+]
